@@ -1,2 +1,0 @@
-# Javascript
-Password Generator
